@@ -28,7 +28,7 @@
 <h2 align="left">Connect with Me</h2>
 
 <p align="left">
-  📧 <a href="mailto:juanmejia.trend@gmail.com">juanmejia.trend@gmail.com</a><br>
+  📧 <a href="mailto:juan.mejia@devinsystems.co">juan.mejia@devinsystems.co</a><br>
   🌐 <a href="https://www.linkedin.com/in/juan-esteban-mejia-caceres-6aba811a9/">LinkedIn</a><br>
   🐦 <a href="https://x.com/1503Mejia">X (formerly Twitter)</a>
 </p>
