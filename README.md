@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Juan Mejia and I am a junior developer with aspirations to reach fullstack, from Colombia to the world (this is my corporate account).</p>
+<p align="left">My name is Juan Mejia and I am a junior developer with aspirations to reach fullstack, from Colombia to the world.</p>
 
 ---
 
