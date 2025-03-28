@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm Juan Esteban Mejia from Colombia<br><br>- 🔭 I’m working as a junior fullstack, mainly with selenium and python.<br>- 📚 I'm currently learning Rea<br>- ⚡ In my free time I usually play video games or travel.</p>
+<p align="left">I'm Juan Esteban Mejia from Colombia<br><br>- 🔭 I’m working as a junior fullstack, mainly with selenium and python.<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I usually play video games or travel.</p>
 
 ###
 
