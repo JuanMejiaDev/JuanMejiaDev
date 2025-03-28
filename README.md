@@ -1,34 +1,47 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JuanMejiaDev.JuanMejiaDev&"  />
+</div>
 
-<p align="left">My name is Juan Mejia and I am a junior developer with aspirations to reach fullstack, from Colombia to the world.</p>
+###
 
----
+<h1 align="center">hey there 👋</h1>
 
-<h2 align="left">About Me</h2>
+###
 
-<p align="left">
-  ✨ Creating bugs for more than 7 months<br>
-  📚 Currently learning frontend development, mainly React and Vue.<br>
-  🎯 Goals: Consolidate myself as a good fullstack developer, and maybe explore mobile development too!<br>
-  🎲 Fun fact: Nothing beats deploying on a Friday afternoon 😜.
-</p>
+<h3 align="left">👩‍💻  About Me</h3>
 
----
+###
 
-<h2 align="left">My Skills</h2>
+<p align="left">I'm Juan Esteban Mejia from Colombia<br><br>- 🔭 I’m working as a junior fullstack, mainly with selenium and python.<br>- 📚 I'm currently learning Rea<br>- ⚡ In my free time I usually play video games or travel.</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,mongodb,selenium,fastapi,postman,react,docker" alt="Skills" />
-  </a>
-</p>
+###
 
----
+<h3 align="left">🛠 Language and tools</h3>
 
-<h2 align="left">Connect with Me</h2>
+###
 
-<p align="left">
-  📧 <a href="mailto:juan.mejia@devinsystems.co">juan.mejia@devinsystems.co</a><br>
-  🌐 <a href="https://www.linkedin.com/in/juan-esteban-mejia-caceres-6aba811a9/">LinkedIn</a><br>
-  🐦 <a href="https://x.com/1503Mejia">X (formerly Twitter)</a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JuanMejiaDev&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
