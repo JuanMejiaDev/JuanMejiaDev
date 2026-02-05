@@ -1,31 +1,58 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there, I'm Juan Esteban Mejía 👋</h1>
 
-###
+<p align="center">
+  <strong>Backend Developer · Automation Specialist · DevOps Enthusiast</strong>
+</p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+---
 
-###
+### 👨‍💻 About Me
 
-<p align="left">I'm Juan Esteban Mejia from Colombia<br><br>- 🔭 I’m working as a junior fullstack, mainly with selenium and python.<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I usually play video games or travel.</p>
+I'm a **Software Developer from Colombia**, focused on building **efficient, scalable, and automated systems** with a strong backend and DevOps orientation.
 
-###
+- 🔭 **Current focus:** End-to-end automation projects, from web scraping to API development and deployment.
+- ⚙️ **DevOps & Infrastructure:** CI/CD pipelines with Docker, GitHub Actions, Nginx, and Dokploy.
+- 🐍 **Main stack:** Python (FastAPI, Selenium, Pandas) and modern frontend development with React.
+- ⚡ **Off work:** Traveling or gaming — automation needs rest too.
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+### 🛠️ Languages & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img 
+    src="https://skillicons.dev/icons?i=py,fastapi,selenium,js,react,html,css" 
+    height="40" 
+    alt="Backend and Frontend Stack" 
+  />
+  <br />
+  <img 
+    src="https://skillicons.dev/icons?i=mysql,mongodb,docker,githubactions,nginx,linux,git" 
+    height="40" 
+    alt="DevOps and Databases" 
+  />
 </div>
 
-###
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanmejiadev&theme=radical" 
+    alt="GitHub Profile Summary" 
+  />
+</p>
+
+---
+
+### 📫 Contact
+
+<p align="center">
+  <a href="mailto:mejiajuan1503@hotmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-mejiajuan1503%40hotmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" 
+      alt="Email" 
+    />
+  </a>
+</p>
